@@ -92,7 +92,7 @@ const projectsData = {
         title: "Thumbnail Gallery",
         category: "Javascript Project",
         year: "2025",
-        image: "images/open-learning.png",
+        image: "assets/images/Screenshot 2026-11-04 233608.png",
         imageAlt: "Open Learning project screenshot",
 
         overview:
@@ -128,10 +128,10 @@ const projectsData = {
     },
 
     voices: {
-        title: "Voices",
-        category: "Digital storytelling",
+        title: "Online Shop",
+        category: "Web foundemantals",
         year: "2026",
-        image: "images/voices.png",
+        image: "assets/images/Screenshot 2026-11-04 233949.png",
         imageAlt: "Voices project screenshot",
 
         overview:
@@ -170,7 +170,7 @@ const projectsData = {
         title: "Personal Portfolio",
         category: "Front-end development",
         year: "2026",
-        image: "images/portfolio.png",
+        image: "assets/images/Screenshot 2026-11-04 234302.png",
         imageAlt: "Personal portfolio project screenshot",
 
         overview:
